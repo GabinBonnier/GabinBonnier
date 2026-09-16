@@ -66,6 +66,22 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="60%">
+      <h3><a href="https://github.com/GabinBonnier/ConcoursStudio19">Doc2Quiz - SAÉ 3ème année BUT Informatique</a></h3>
+      <p>Application web de génération de méthode de révision à partir d'un cours.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/LLM-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM" />
+<img src="https://img.shields.io/badge/BDD-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Base de données" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/API-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="API" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 📊 Statistiques GitHub
