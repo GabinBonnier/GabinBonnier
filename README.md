@@ -86,7 +86,7 @@
 
 ### 📊 Statistiques GitHub
 
-<div align="center">
+<div align="left">
  <img src="https://github-readme-stats-fast.vercel.app/api?username=GabinBonnier&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats de Gabin" height="165" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabinBonnier&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langages" height="165" />
 </div>
