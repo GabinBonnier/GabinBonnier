@@ -87,6 +87,6 @@
 ### 📊 Statistiques GitHub
 
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabinBonnier&theme=tokyonight" alt="Stats de Gabin" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabinBonnier&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabinBonnier&theme=tokyonight" alt="Stats de Gabin" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabinBonnier&theme=tokyonight" alt="Top Langages" height="195" />
 </div>
