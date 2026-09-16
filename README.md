@@ -87,7 +87,6 @@
 ### 📊 Statistiques GitHub
 
 <div align="left">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=GabinBonnier&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=stars" alt="Stats de Gabin" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabinBonnier&theme=tokyonight" alt="Stats de Gabin" height="165" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabinBonnier&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langages" height="165" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FGabinBonnier&query=%24.public_repos&label=Projets%20Publics&color=6272A4&style=for-the-badge&logo=github" alt="Nombre de projets" />
 </div>
