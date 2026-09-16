@@ -69,7 +69,7 @@
 <table>
   <tr>
     <td width="60%">
-      <h3><a href="https://github.com/GabinBonnier/ConcoursStudio19">Doc2Quiz - SAÉ 3ème année BUT Informatique</a></h3>
+      <h3><a href="https://github.com/GabinBonnier/11_Doc2Quiz">Doc2Quiz - SAÉ 3ème année BUT Informatique</a></h3>
       <p>Application web de génération de méthode de révision à partir d'un cours.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
