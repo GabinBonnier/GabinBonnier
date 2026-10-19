@@ -5,7 +5,7 @@
   <p><strong>Développeur Full Stack & Passionné par le développement Web</strong></p>
 
   <p>
-    <a href="https://www.linkedin.com/in/gabin-bonnier/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/gabin-bonnier/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkein&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:gabin.bonnier1@yahoo.com"><img src="https://img.shields.io/badge/Contact - gabin.bonnier1%40yahoo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
@@ -13,36 +13,60 @@
 
 ---
 
-### ⚡ À propos
+## ⚡ À propos
 
-* 🎯 **Focus actuel :** Conception et déploiement d'applications web complètes.
-* 🛠️ **Ce que j'aime :** Développer des sites web / Applications Web complètes, pratiquer du vélo de course en loisir.
-* 📍 **Localisation :** France
+* 🎯 **Projet futur :** Intégration d'une école d'ingénieur dans diverses domaines : _Développement web, fullstack, DevOps_
+* 🛠️ **Ce que j'aime :** Développement de site web extra universitaire, engagement associatif, pratique du cyclisme en loisir.
+* 📍 **Localisation :** France, Haut de France (62100 - Calais)
 
 ---
 
-### 💻 Stack & Outils
+## 💻 Compétences techniques
+### Développement web
+
 
 <div align="left">
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Java-336791?style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP (Symfony)-336791?style=for-the-badge" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java script (Symfony)-336791?style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-336791?style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5 / CSS3-336791?style=for-the-badge" alt="HTML/CSS" />
+  <img src="https://img.shields.io/badge/LLM-336791?style=for-the-badge" alt="LLM" />
+  
 
   <br />
 
-  <!-- Backend & Data -->
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+### Base de données
+
+  <img src="https://img.shields.io/badge/SQL(PostgreSQL / Mysql)-336791?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/NoSQL-336791?style=for-the-badge" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/Prisma-336791?style=for-the-badge" alt="Prisma" />
+  <img src="https://img.shields.io/badge/SQLite-336791?style=for-the-badge" alt="SQlite" />
 
   <br />
 
-  <!-- DevOps & Déploiement -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+### Programmation
+
+  <img src="https://img.shields.io/badge/C++-336791?style=for-the-badge" alt="C++" />
+  <img src="https://img.shields.io/badge/C sharp-336791?style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/F sharp-336791?style=for-the-badge" alt="F#" />
+  <img src="https://img.shields.io/badge/Python-336791?style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/Android Studio-336791?style=for-the-badge" alt="Android Studio" />
+
+  <br />
+
+### DevOps & Outils
+
+  <img src="https://img.shields.io/badge/Docker-336791?style=for-the-badge" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git / GitHub-336791?style=for-the-badge" alt="git/github" />
+  <img src="https://img.shields.io/badge/Trello-336791?style=for-the-badge" alt="F#" />
+  <img src="https://img.shields.io/badge/Markdown-336791?style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/Agent IA-336791?style=for-the-badge" alt="Android Studio" />
+
+
+
+  
 
 </div>
 
