@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hey, moi c'est Gabin 👋</h1>
+  <h1>Hey, moi c'est Gabin </h1>
 
   <p><strong>Développeur Full Stack & Passionné par le développement Web</strong></p>
 
