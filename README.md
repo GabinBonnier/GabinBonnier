@@ -1,12 +1,12 @@
 <div align="center">
 
-  <h1>Hey, moi c'est Gabin </h1>
+  <h1>Gabin Bonnier</h1>
 
   <p><strong>Développeur Full Stack & Passionné par le développement Web</strong></p>
 
   <p>
     <a href="https://www.linkedin.com/in/gabin-bonnier/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkein&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:gabin.bonnier1@yahoo.com"><img src="https://img.shields.io/badge/Contact - gabin.bonnier1%40yahoo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:gabin.bonnier1@yahoo.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-left: 2%" /></a>
   </p>
 
 </div>
