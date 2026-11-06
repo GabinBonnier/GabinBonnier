@@ -6,7 +6,8 @@
 
   <p>
     <a href="https://www.linkedin.com/in/gabin-bonnier/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkein&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:gabin.bonnier1@yahoo.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-left: 3%" /></a>
+    <a href="mailto:gabin.bonnier1@yahoo.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-left: 2%" /></a>
+
   </p>
 
 </div>
